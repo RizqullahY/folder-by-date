@@ -1,0 +1,9 @@
+{
+  "default_format": "%Y/%m/%d",
+  "open_after_create": false,
+  "presets": {
+    "ymd": "%Y/%m/%d",
+    "dmy": "%d-%m-%Y",
+    "flat": "%Y-%m-%d"
+  }
+}
